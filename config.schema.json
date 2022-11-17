@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "JQx00Sensor",
   "pluginType": "platform",
   "singular": true,
   "schema": {
