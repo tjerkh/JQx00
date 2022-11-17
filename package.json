@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
-  "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "displayName": "JQ200 or JQ300 Air Quality Sensor",
+  "name": "JQx00",
+  "version": "0.0.1",
+  "description": "A plugin for the JQ200 or JQ300 Air Quality Sensor.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/tjerkh/JQx00.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/tjerkh/JQx00/issues"
   },
   "engines": {
     "node": ">=14.18.1",
