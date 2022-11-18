@@ -1,7 +1,7 @@
 {
   "private": true,
-  "displayName": "JQ200 or JQ300 Air Quality Sensor",
-  "name": "JQx00",
+  "displayName": "JQx00",
+  "name": "homebridge-jqx00",
   "version": "0.0.1",
   "description": "A plugin for the JQ200 or JQ300 Air Quality Sensor.",
   "license": "Apache-2.0",

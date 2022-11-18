@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "JQx00Sensor",
+  "pluginAlias": "jqx00",
   "pluginType": "platform",
   "singular": true,
   "schema": {
