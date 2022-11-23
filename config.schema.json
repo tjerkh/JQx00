@@ -1,7 +1,7 @@
 {
   "pluginAlias": "jqx00",
-  "pluginType": "platform",
-  "singular": true,
+  "pluginType": "accessory",
+  "singular": false,
   "schema": {
     "type": "object",
     "properties": {
@@ -9,7 +9,21 @@
         "title": "Name",
         "type": "string",
         "required": true,
-        "default": "Example Dynamic Platform"
+        "default": "jqx00"
+      },
+      "topic": {
+        "title": "DeviceToken",
+        "type": "string",
+        "required": true,
+        "description": "Unique token of the device."
+      },
+      "model": {
+        "title": "Model",
+        "type": "string",
+        "oneOf": [
+          { "title": "JQ200", "enum": ["JQ200"] },
+          { "title": "JQ300", "enum": ["JQ300"] }
+        ]
       }
     }
   }
