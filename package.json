@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "displayName": "JQ200/JQ300",
   "name": "homebridge-jqx00",
   "version": "1.0.0",
